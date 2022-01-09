@@ -1,4 +1,3 @@
-import 'package:image_picker/image_picker.dart';
 
 /// [picture] is the [String] path to the image
 class Item {

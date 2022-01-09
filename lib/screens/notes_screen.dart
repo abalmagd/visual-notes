@@ -58,7 +58,7 @@ class NoteItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final cubit = AppCubit.get(context);
-    return GestureDetector(
+    return InkWell(
       onTap: () => Navigator.push(
           context,
           AddNoteScreen.navTo(

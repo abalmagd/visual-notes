@@ -1,8 +1,6 @@
 # visual_notes
 
-This application will be used by an inspector to track manufacturing defects for a chairs’ factory. 
-This application will be used to display, add, remove a list of visual note items.
-Note items data are ID, Title, Description, Picture, Date, Status 
+f
 
 ## Getting Started
 
